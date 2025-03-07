@@ -1,4 +1,4 @@
-# MIRA NETWORK AUTO GET TOKEN
+# MIRA NETWORK AUTO GET TOKEN MULTI ACCOUNTS
 
 An automated login bot for lumira
 
@@ -33,7 +33,7 @@ Set your email and passwords at accounts.json
 
 
 ```bash
-npm run.js
+node run.js
 ```
 
 
