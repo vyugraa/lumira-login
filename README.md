@@ -33,7 +33,7 @@ Set your email and passwords at accounts.json
 
 
 ```bash
-node run.js
+node login.js
 ```
 
 
