@@ -1,4 +1,4 @@
-# Kaleido Finance Registration Bot
+# MIRA NETWORK AUTO GET TOKEN
 
 An automated login bot for lumira
 
