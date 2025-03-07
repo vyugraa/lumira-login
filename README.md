@@ -22,7 +22,7 @@ cd lumira-login
 
 2. Install dependencies:
 ```bash
-npm install
+npm install axios fs
 ```
 
 ## Configuration
